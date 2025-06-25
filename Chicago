@@ -14,3 +14,13 @@
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="css/styles.css" rel="stylesheet" />
     </head>
+
+    <body> 
+        <div class"column">
+            <h1>Chicago Homicides</h1>
+            <p>
+                Chicago unfortunately has a high homicide rate.
+            </p>
+        </div>
+
+    </body> 
